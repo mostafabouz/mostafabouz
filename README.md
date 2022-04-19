@@ -30,7 +30,7 @@ I am a Data scientist from France 🇫🇷 of Moroccan 🇲🇦 origin.
 
 - :seedling: Currently Learning ML Ops.
 
-- :heart_eyes: I'm passionate about open source and new technologies.
+- 👐: I'm passionate about new technologies and continuous contributions.
 
 - 🥤 What I do in my free time : 🎵 🏞️ 🧑‍💻 💪
 
